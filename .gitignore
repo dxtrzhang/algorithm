@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/*
+
+# Pycharm Developing Environment
+.idea/*
+
+# Python Interpreters
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/*
